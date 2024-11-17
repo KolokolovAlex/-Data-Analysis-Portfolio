@@ -4,6 +4,8 @@
 
 I am a versatile design engineer with a strong focus on data analysis and process optimization. My work spans creating 3D/2D technical drawings, engineering calculations, and managing production workflows. Leveraging analytical tools and databases, I transform data insights into actionable strategies that improve production efficiency and product quality. Passionate about innovation, I continually develop custom automation solutions to streamline complex tasks and focus on high-impact work.
 
+My CV in [pdf](https://s3.eu-north-1.amazonaws.com/lms.goit.files/caaab1b6-b3ce-4783-a9aa-e5104a2dfe7eAlexander_Kolokolov_Junior%20Data%20Analyst.pdf).
+
 ## Skills
 Core Competencies:
 
@@ -42,3 +44,5 @@ Additional Qualifications:
 - Strong communication skills, emphasizing clear client interactions to align on goals and ensure effective collaboration.
 
 - Commitment to learning and applying the latest data analysis tools and techniques to drive data-driven solutions.
+
+## Portfolio Projects
