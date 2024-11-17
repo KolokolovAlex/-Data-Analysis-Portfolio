@@ -4,6 +4,7 @@
 
 I am a versatile design engineer with a strong focus on data analysis and process optimization. My work spans creating 3D/2D technical drawings, engineering calculations, and managing production workflows. Leveraging analytical tools and databases, I transform data insights into actionable strategies that improve production efficiency and product quality. Passionate about innovation, I continually develop custom automation solutions to streamline complex tasks and focus on high-impact work.
 
+## Skills
 Core Competencies:
 
 - Engineering Analysis and Simulation:  Skilled in Ansys for complex engineering simulations, allowing data-backed design improvements.
