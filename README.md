@@ -1,5 +1,14 @@
 # Alexander Kolokolov - Data Analysis Portfolio
 
+## Table of Contents
+
+- [About](#about)
+- [Skills](#skills)
+  - [Core Competencies](#core-competencies)
+  - [Technical Skills](#technical-skills)
+- [Portfolio Projects](#portfolio-projects)
+  -[Google Sheets](#examples-of-working-with-google-sheets)
+
 ## About
 
 I am a versatile design engineer with a strong focus on data analysis and process optimization. My work spans creating 3D/2D technical drawings, engineering calculations, and managing production workflows. Leveraging analytical tools and databases, I transform data insights into actionable strategies that improve production efficiency and product quality. Passionate about innovation, I continually develop custom automation solutions to streamline complex tasks and focus on high-impact work.
@@ -9,7 +18,8 @@ My CV in [pdf](https://s3.eu-north-1.amazonaws.com/lms.goit.files/caaab1b6-b3ce-
 Also my [WarCode](https://www.codewars.com/users/AlexOriobel) where I improve my Python and SQL Skills
 
 ## Skills
-Core Competencies:
+
+### Core Competencies:
 
 - Engineering Analysis and Simulation:  Skilled in Ansys for complex engineering simulations, allowing data-backed design improvements.
 
@@ -25,7 +35,7 @@ Core Competencies:
 
 - 3D Modeling and CAD: Proficient in Unigraphics NX for creating detailed 3D models and technical drawings to support manufacturing.
 
-Technical Skills:
+### Technical Skills:
 
 - Languages: Java, Python (Pandas, Django), VBA
 
