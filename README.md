@@ -57,7 +57,7 @@ Additional Qualifications:
 
 - ### Example Plan for Tracking and Collecting App User Data
   
-  - [Tracking Plan (MyFitnessPal](https://docs.google.com/spreadsheets/d/1PyiRBhSfkZEHnfRIrsiKHl-i5PVzQHrR5MtKlgGub0A/edit?usp=sharing)
+  - [Tracking Plan (MyFitnessPal)](https://docs.google.com/spreadsheets/d/1PyiRBhSfkZEHnfRIrsiKHl-i5PVzQHrR5MtKlgGub0A/edit?usp=sharing)
 
 - ### Processing Survey Statistical Data Using Python in Jupyter Notebook with Pandas and Matplotlib
   
