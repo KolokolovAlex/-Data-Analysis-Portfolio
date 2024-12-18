@@ -6,6 +6,8 @@ I am a versatile design engineer with a strong focus on data analysis and proces
 
 My CV in [pdf](https://s3.eu-north-1.amazonaws.com/lms.goit.files/caaab1b6-b3ce-4783-a9aa-e5104a2dfe7eAlexander_Kolokolov_Junior%20Data%20Analyst.pdf).
 
+Also my [WarCode](https://www.codewars.com/users/AlexOriobel) where I improve my Python and SQL Skills
+
 ## Skills
 Core Competencies:
 
