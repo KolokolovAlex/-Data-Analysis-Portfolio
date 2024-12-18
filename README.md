@@ -46,3 +46,4 @@ Additional Qualifications:
 - Commitment to learning and applying the latest data analysis tools and techniques to drive data-driven solutions.
 
 ## Portfolio Projects
+
