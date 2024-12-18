@@ -7,7 +7,6 @@
   - [Core Competencies](#core-competencies)
   - [Technical Skills](#technical-skills)
 - [Portfolio Projects](#portfolio-projects)
-  -[Google Sheets](#examples-of-working-with-google-sheets)
 
 ## About
 
