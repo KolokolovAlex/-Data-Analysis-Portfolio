@@ -47,3 +47,16 @@ Additional Qualifications:
 
 ## Portfolio Projects
 
+### Examples of Working with Google Sheets:
+
+[Games Data](https://docs.google.com/spreadsheets/d/1QJGutIAGinLXFlgGM8jerNP_RevZZVx0DW1sL1SB_Qw/edit?usp=sharing)
+
+[Active users and activity](https://docs.google.com/spreadsheets/d/1ilWGbIUc42AQUJ_af1zQsX5O35LNP8YX20l38VNjKyg/edit?usp=sharing)
+
+### Example Plan for Tracking and Collecting App User Data
+[Tracking Plan (MyFitnessPal](https://docs.google.com/spreadsheets/d/1PyiRBhSfkZEHnfRIrsiKHl-i5PVzQHrR5MtKlgGub0A/edit?usp=sharing)
+
+###
+
+
+
