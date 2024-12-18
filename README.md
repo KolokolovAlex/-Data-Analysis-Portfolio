@@ -72,7 +72,7 @@ Additional Qualifications:
 
 - ### Processing Survey Statistical Data Using Python in Jupyter Notebook with Pandas and Matplotlib
   
-  - [Survey](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Processing%20Survey%20Statistical%20Data.ipynb)
+  - [Survey](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Processing%20Survey%20Statistical%20Data.ipynb](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Processing%20Survey%20Statistical%20Data))
 
 - ### Examples of Working with SQL
   
