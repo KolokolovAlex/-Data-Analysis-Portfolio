@@ -51,17 +51,20 @@ Additional Qualifications:
 
 - ### Examples of Working with Google Sheets:
 
-- [Games Data](https://docs.google.com/spreadsheets/d/1QJGutIAGinLXFlgGM8jerNP_RevZZVx0DW1sL1SB_Qw/edit?usp=sharing)
+  - [Games Data](https://docs.google.com/spreadsheets/d/1QJGutIAGinLXFlgGM8jerNP_RevZZVx0DW1sL1SB_Qw/edit?usp=sharing)
 
-- [Active users and activity](https://docs.google.com/spreadsheets/d/1ilWGbIUc42AQUJ_af1zQsX5O35LNP8YX20l38VNjKyg/edit?usp=sharing)
+  - [Active users and activity](https://docs.google.com/spreadsheets/d/1ilWGbIUc42AQUJ_af1zQsX5O35LNP8YX20l38VNjKyg/edit?usp=sharing)
 
 - ### Example Plan for Tracking and Collecting App User Data
-[Tracking Plan (MyFitnessPal](https://docs.google.com/spreadsheets/d/1PyiRBhSfkZEHnfRIrsiKHl-i5PVzQHrR5MtKlgGub0A/edit?usp=sharing)
+  
+  - [Tracking Plan (MyFitnessPal](https://docs.google.com/spreadsheets/d/1PyiRBhSfkZEHnfRIrsiKHl-i5PVzQHrR5MtKlgGub0A/edit?usp=sharing)
 
 - ### Processing Survey Statistical Data Using Python in Jupyter Notebook with Pandas and Matplotlib
-[Survey](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Processing%20Survey%20Statistical%20Data.ipynb)
+  
+  - [Survey](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Processing%20Survey%20Statistical%20Data.ipynb)
 
 - ### Examples of Working with SQL
-[Effectiveness of Advertising Campaigns](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Determining%20the%20Effectiveness%20of%20Advertising%20Campaigns%20by%20SQL)
+  
+  - [Effectiveness of Advertising Campaigns](https://github.com/KolokolovAlex/-Data-Analysis-Portfolio/blob/main/Determining%20the%20Effectiveness%20of%20Advertising%20Campaigns%20by%20SQL)
 
 
